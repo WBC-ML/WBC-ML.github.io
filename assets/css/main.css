@@ -1985,6 +1985,13 @@ input, select, textarea {
 					background-color: #DA2713;
 				}
 
+				ul.contact li:hover a.fa-qq {
+					background-color: #DA2714;
+				}
+				
+				ul.contact li:hover a.fa-envelope {
+					background-color: #2E5E88;
+				}
 			ul.contact li:active {
 				top: 0;
 			}
